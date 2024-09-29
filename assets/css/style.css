@@ -43,3 +43,9 @@ h1, h2, h3 {
 #carousel-parent-container {
     margin-top: 5rem;
 }
+
+/*--------------------------------------------Key principles section*/
+
+.kp-section {
+    color: #fff;
+}
