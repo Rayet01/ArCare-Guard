@@ -1,4 +1,13 @@
+body {
+    font-family: "League Spartan", system-ui;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 125%;
+}
 
+h1, h2, h3 {
+    font-weight: bold;
+}
 
 
 
@@ -28,5 +37,9 @@
     top: 0;
     background-position: center;
     background-size: cover;
-    opacity: 0.5;
+    opacity: 0.3;
+}
+
+#carousel-global-container {
+    margin-top: 5rem;
 }
