@@ -20,7 +20,9 @@ h1, h2, h3 {
     background-size: cover;
 }
 
-#carousel-container {
+#carousel-container-one,
+#carousel-container-two,
+#carousel-container-three {
     position: absolute;
     bottom: 0;
     left: 0;
