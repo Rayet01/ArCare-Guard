@@ -54,7 +54,7 @@ The site has been successfully deployed on GitHub Pages and can be accessed at: 
 ## Credits
 
 - **SVG wave border** from: [Softr SVG Wave Generator](https://www.softr.io/tools/svg-wave-generator)
-- **Carousel slider** from: [Adriantwarog's Bootstrap Carousel](https://dev.to/adriantwarog/carousel-slider-tutorial-bootstrap-5-37ha)
+- **Carousel slider** from: [Adrian Twarog's Bootstrap Carousel](https://dev.to/adriantwarog/carousel-slider-tutorial-bootstrap-5-37ha)
 - **Navbar** from: [Bootstrap Navbar](https://getbootstrap.com/docs/5.0/components/navbar/)
 - **Contact form** from: [Bootstrap Forms](https://getbootstrap.com/docs/5.0/forms/)
 - **Resources/Links** from: [UK Safeguarding Guide](https://www.gov.uk/guidance/district-provision-tool/safeguarding)
