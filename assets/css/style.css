@@ -57,6 +57,8 @@ h1, h2, h3 {
     color: #fff;
 }
 
-/*--------------------------------------------Custom border*/
-
+/*--------------------------------------------Contact form*/
+#contact-form-parent-container {
+    margin-top: 10rem;
+}
   
