@@ -55,8 +55,6 @@ The site has been successfully deployed on GitHub Pages and can be accessed at: 
 - **Carousel slider** from: [Adrian Twarog](https://dev.to/adriantwarog/carousel-slider-tutorial-bootstrap-5-37ha)
 - **Navbar** from: [Bootstrap Navbar](https://getbootstrap.com/docs/5.0/components/navbar/)
 - **Contact form** from: [Bootstrap Forms](https://getbootstrap.com/docs/5.0/forms/)
-- **Resources/Links** from: [UK Safeguarding Guide](https://www.gov.uk/guidance/district-provision-tool/safeguarding)
-- **Text content** from: [ChatGPT](https://chatgpt.com) and [Copilot](https://copilot.microsoft.com)
 
 ## Content
 
