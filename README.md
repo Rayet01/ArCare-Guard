@@ -46,6 +46,7 @@ The primary goal of the ArCare Guard site is to offer young people in care a com
 ## Unfixed Bugs
 
 - Empty space down the right-hand side of the home page (small and medium devices only).
+- SVG waves do not align flush on all screen resolutions (small and medium devices only).
 
 ## Deployment
 
@@ -53,20 +54,21 @@ The site has been successfully deployed on GitHub Pages and can be accessed at: 
 
 ## Credits
 
-- **Carousel slider** from: [Adrian Twarog's Bootstrap Carousel](https://dev.to/adriantwarog/carousel-slider-tutorial-bootstrap-5-37ha)
+- **Carousel slider** from: [Adrian Twarog](https://dev.to/adriantwarog/carousel-slider-tutorial-bootstrap-5-37ha)
 - **Navbar** from: [Bootstrap Navbar](https://getbootstrap.com/docs/5.0/components/navbar/)
 - **Contact form** from: [Bootstrap Forms](https://getbootstrap.com/docs/5.0/forms/)
 - **Resources/Links** from: [UK Safeguarding Guide](https://www.gov.uk/guidance/district-provision-tool/safeguarding)
-- **Text content** from: ChatGPT and Copilot
+- **Text content** from: [ChatGPT](https://chatgpt.com) and [Copilot](https://copilot.microsoft.com)
 
 ## Content
 
 - **Resources/Links** from: [UK Safeguarding Guide](https://www.gov.uk/guidance/district-provision-tool/safeguarding)
-- **Text content** from: ChatGPT and Copilot
+- **Text content** from: [ChatGPT](https://chatgpt.com) and [Copilot](https://copilot.microsoft.com)
 
 ## Media
 
-- **Logo** created using canva.com
-- **Images** used from stockcake.com
-- **Icons** used from FontAwesome
+- **Logo** created using [Canva](https://www.canva.com)
+- **Images** used from: [Stockcake](https://www.stockcake.com)
+- **Icons** used from: [FontAwesome](https://fontawesome.com)
 - **SVG wave border** from: [Softr SVG Wave Generator](https://www.softr.io/tools/svg-wave-generator)
+- **Favicon** created using: [Canva](https://www.canva.com) and [Favicon.io](https://favicon.io/favicon-converter)
