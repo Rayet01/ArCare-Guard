@@ -43,7 +43,7 @@ The primary goal of the ArCare Guard site is to offer young people in care a com
 
 ## Unfixed Bugs
 
-- Empty space down the right-hand side of the home page (small and medium devices only).
+- Empty space down the right-hand side of the home page.
 - SVG waves do not align flush on all screen resolutions.
 
 ## Deployment
