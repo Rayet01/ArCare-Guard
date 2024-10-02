@@ -29,8 +29,6 @@ The primary goal of the ArCare Guard site is to offer young people in care a com
 ### Wireframes
 
 - **Home Page**: Features an introduction, key principles, and other helpful sections.
-- **Support and Resources Page**: This page provides direct access to vital safeguarding resources, offering links to official government guidance and tools that support the safety and well-being of young people.
-- **Contact Page**: A simple and accessible contact form for reporting concerns or asking questions.
 
 ### User Stories
 
