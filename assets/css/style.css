@@ -65,4 +65,9 @@ h1, h2, h3 {
 #contact-form-parent-container {
     margin-top: 10rem;
 }
-  
+
+@media (max-width: 768px) {
+    body, html {
+        overflow-x: hidden;
+    }
+}
