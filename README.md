@@ -1,6 +1,6 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-**Students:** Sol Rayet   
+**Student:** Sol Rayet   
 **Date:** 30/09/2024   
 **Cohort:** WECA - Full Stack Software Developer: Skills Bootcamp  
 **Project:** Individual Formative Assignment: HTML, CSS, Bootstrap
