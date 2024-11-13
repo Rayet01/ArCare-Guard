@@ -1,3 +1,10 @@
+![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+
+**Students:** Sol Rayet
+**Date:** 30/09/2024  
+**Cohort:** WECA - Full Stack Software Developer: Skills Bootcamp  
+**Project:** Individual Formative Assignment: HTML, CSS, Bootstrap
+
 # ArCare Guard - Safeguarding Resources for Young People in Care
 
 ArCare Guard is a platform designed to support young people in care, helping them understand their rights, recognize potential warning signs, and access critical safeguarding resources. Our goal is to create a safe and informative space to empower young people with the knowledge they need to stay safe.
