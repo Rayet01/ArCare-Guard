@@ -5,10 +5,16 @@ ArCare Guard is a platform designed to support young people in care, helping the
 ## Features
 
 - **Responsive Design**: Responsive layout that adapts to various screen sizes.
+![Responsive Design](./assets/images/arc-rd.png)
 - **Key Principles Section**: Highlights safeguarding principles such as safety, protection, and privacy, providing young people with clear information about their rights.
-- **Resource Links**: Provides access to valuable safeguarding resources and support organizations.
-- **Contact Form**: Accessible contact form with validation, allowing users to report concerns or ask for help.
+![Key Principles Section](./assets/images/keyps.png)
+- **Support and Resources Page**: Provides access to valuable safeguarding resources and support organizations.
+![Support and Resources Page](./assets/images/S&R.png)
+- **Contact Page**: Accessible contact form with validation, allowing users to report concerns or ask for help.
+![Contact Page](./assets/images/contact.png)
 - **Dynamic Navigation**: User-friendly navigation menu that adjusts based on the device, making it easy to explore the site.
+![Dynamic Navigation Large](./assets/images/nav-lg.png)
+![Dynamic Navigation Small](./assets/images/nav-sm.png)
 
 ## UX
 
@@ -29,6 +35,7 @@ The primary goal of the ArCare Guard site is to offer young people in care a com
 ### Wireframes
 
 - **Home Page**: Features an introduction, key principles, and other helpful sections.
+![Home Page Wireframe](./assets/images/WIreframes/all.png)
 
 ### User Stories
 
@@ -39,11 +46,13 @@ The primary goal of the ArCare Guard site is to offer young people in care a com
 ## Validator Testing
 
 - **HTML Validation**: Successfully passed validation using W3C HTML Validator.
+![HTML Validation](./assets/images/html-valid.png)
 - **CSS Validation**: Successfully passed validation using W3C CSS Validator.
+![CSS Validation](./assets/images/css-valid.png)
 
-## Unfixed Bugs
+## Bugs
 
-- Empty space down the right-hand side of the home page.
+- ✅ Empty space down the right-hand side of the home page.
 - SVG waves do not align flush on all screen resolutions.
 
 ## Deployment
